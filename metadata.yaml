@@ -1,0 +1,26 @@
+_repo: La-jeune-fille-bien-elevee_50435
+creator:
+  author:
+    agent_name: Boylesve, René
+    aliases:
+    - Tardivaux, René
+    - Boylesve, Rene
+    birthdate: 1867
+    deathdate: 1926
+    gutenberg_agent_id: '8323'
+    url: http://www.gutenberg.org/2009/agents/8323
+    wikipedia: http://fr.wikipedia.org/wiki/Ren%C3%A9_Boylesve
+description: ''
+gutenberg_bookshelf:
+- FR Littérature
+- FR Nouveautés
+gutenberg_issued: '2015-11-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '50435'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: La jeune fille bien élevée
+url: http://www.gutenberg.org/ebooks/50435
